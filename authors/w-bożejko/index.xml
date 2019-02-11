@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W Bożejko on @Don</title>
+    <link>/authors/w-bo%C5%BCejko/</link>
+    <description>Recent content in W Bożejko on @Don</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/w-bo%C5%BCejko/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Local Optima Networks in Solving Algorithm Selection Problem for TSP</title>
+      <link>/publication/2018-bgnab-local-optima-networks/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2018-bgnab-local-optima-networks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Vorderwinkler on @Don</title>
+    <link>/authors/m.-vorderwinkler/</link>
+    <description>Recent content in M. Vorderwinkler on @Don</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/m.-vorderwinkler/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Production Fine Planning Using a Solution Archive of Priority Rules</title>
+      <link>/publication/2011-pbahv-production-fine-planning/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2011-pbahv-production-fine-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced Priority Rule Synthesis with Waiting Conditions</title>
+      <link>/publication/2010-bkwah-enhanced-priority-rule/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2010-bkwah-enhanced-priority-rule/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

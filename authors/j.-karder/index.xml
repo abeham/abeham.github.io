@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Karder on @Don</title>
+    <link>/authors/j.-karder/</link>
+    <description>Recent content in J. Karder on @Don</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/j.-karder/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A General Solution Approach for the Location Routing Problem</title>
+      <link>/publication/2017-hkbwa-general-solution-approach/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2017-hkbwa-general-solution-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enterprise interoperability as framework for project knowledge management</title>
+      <link>/publication/2017-wrbfs-enterpriseinteroperabilityas/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2017-wrbfs-enterpriseinteroperabilityas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving the Traveling Thief Problem using Orchestration in Optimization Networks</title>
+      <link>/publication/2017-kabwa-solving-traveling-thief/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2017-kabwa-solving-traveling-thief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards the design and implementation of optimization networks in heuristiclab</title>
+      <link>/publication/2017-kwbka-towardsdesignimplementation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2017-kwbka-towardsdesignimplementation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extending Sim# for simulation-based optimisation of semi-automated machinery</title>
+      <link>/publication/2016-ksbwa-extending-simsimulation/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2016-ksbwa-extending-simsimulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplifying problem definitions in the HeuristicLab optimization environment</title>
+      <link>/publication/2015-sbkkw-simplifyingproblemdefinitions/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2015-sbkkw-simplifyingproblemdefinitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation-based set-up time optimization using Sim# and Heuristiclab</title>
+      <link>/publication/2015-ksbwa-simulationbasedset/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2015-ksbwa-simulationbasedset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated simulation and optimization in heuristiclab</title>
+      <link>/publication/2014-bkkks-integratedsimulationoptimization/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2014-bkkks-integratedsimulationoptimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scripting and framework integration in heuristic optimization environments</title>
+      <link>/publication/2014-bkkwk-scriptingframeworkintegration/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2014-bkkwk-scriptingframeworkintegration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

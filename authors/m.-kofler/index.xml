@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Kofler on @Don</title>
+    <link>/authors/m.-kofler/</link>
+    <description>Recent content in M. Kofler on @Don</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/m.-kofler/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Robust storage assignment in warehouses with correlated demand</title>
+      <link>/publication/2015-kobwa-robuststorageassignment/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2015-kobwa-robuststorageassignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture and Design of the HeuristicLab Optimization Environment</title>
+      <link>/publication/2014-wkbks-architecture-design-heuristic-lab/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2014-wkbks-architecture-design-heuristic-lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yard storage assignment optimisation with neutral walks</title>
+      <link>/publication/2013-kbpwa-yardstorageassignment/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2013-kbpwa-yardstorageassignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling and optimizing storage assignment in a steel slab yard</title>
+      <link>/publication/2012-kbvwa-modellingoptimizingstorage/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2012-kbvwa-modellingoptimizingstorage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing assembly line supply by integrating warehouse picking and forklift routing using simulation</title>
+      <link>/publication/2012-vkbaa-optimizingassemblyline/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2012-vkbaa-optimizingassemblyline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Re-warehousing vs. healing: Strategies for warehouse storage location assignment</title>
+      <link>/publication/2011-kbwaa-rewarehousingvs-/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2011-kbwaa-rewarehousingvs-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simulation-based approach to the vehicle routing problem</title>
+      <link>/publication/2010-vwbka-simulationbasedapproach/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2010-vwbka-simulationbasedapproach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced Priority Rule Synthesis with Waiting Conditions</title>
+      <link>/publication/2010-bkwah-enhanced-priority-rule/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2010-bkwah-enhanced-priority-rule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-line parameter optimization strategies for metaheuristics</title>
+      <link>/publication/2010-apkpw-lineparameteroptimization/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2010-apkpw-lineparameteroptimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reassigning storage locations in a warehouse to optimize the order picking process</title>
+      <link>/publication/2010-kbwar-reassigningstoragelocations/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2010-kbwar-reassigningstoragelocations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using erp-driven flow analysis to optimize a constrained facility layout problem</title>
+      <link>/publication/2010-bkwap-usingerpdriven/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2010-bkwap-usingerpdriven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agent-based simulation of dispatching rules in dynamic pickup and delivery problems</title>
+      <link>/publication/2009-bekwa-agentbasedsimulation/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2009-bekwa-agentbasedsimulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of dispatching strategies for the optimization of a real-world production plant</title>
+      <link>/publication/2009-kobwa-evaluationdispatchingstrategies/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2009-kobwa-evaluationdispatchingstrategies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary selection in simulation-based optimization</title>
+      <link>/publication/2009-bekaw-evolutionaryselectionsimulation/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2009-bekaw-evolutionaryselectionsimulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metaheuristic Optimization</title>
+      <link>/publication/2009-awwbk-metaheuristic-optimization/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2009-awwbk-metaheuristic-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Priority rule generation with a genetic algorithm to minimize sequence dependent setup costs</title>
+      <link>/publication/2009-kwbka-priorityrulegeneration/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2009-kwbka-priorityrulegeneration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of medical ultrasound transducers with simulation and genetic algorithms</title>
+      <link>/publication/2008-kobaw-optimizationmedicalultrasound/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2008-kobaw-optimizationmedicalultrasound/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Affenzeller on @Don</title>
+    <link>/authors/michael-affenzeller/</link>
+    <description>Recent content in Michael Affenzeller on @Don</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/michael-affenzeller/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Local Optima Networks in Solving Algorithm Selection Problem for TSP</title>
+      <link>/publication/2019-bgnab-local-optima-networks/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2019-bgnab-local-optima-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithm Selection on Generalized Quadratic Assignment Problem Landscapes</title>
+      <link>/publication/2018-bewaa-algorithm-selection-generalized/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2018-bewaa-algorithm-selection-generalized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization networks for integrated machine learning</title>
+      <link>/publication/2018-kkbbk-optimizationnetworksintegrated/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2018-kkbbk-optimizationnetworksintegrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource constrained project scheduling: a real-world extension for steel industry</title>
+      <link>/publication/2018-habra-resourceconstrainedproject/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2018-habra-resourceconstrainedproject/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysing a Hybrid Model-Based Evolutionary Algorithm for a Hard Grouping Problem</title>
+      <link>/publication/2017-rabwa-analysing-hybrid-model/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2017-rabwa-analysing-hybrid-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instance-based Algorithm Selection on Quadratic Assignment Problem Landscapes</title>
+      <link>/publication/2017-beafw-instancebased-algorithm/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2017-beafw-instancebased-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tree-Search Based Heuristic for a Complex Stacking Problem with Continous Production and Retrieval</title>
+      <link>/publication/2016-rabta-tree-search-based/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2016-rabta-tree-search-based/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metaheuristic Algorithms for the Quadratic Assignment Problem: Performance and Comparison</title>
+      <link>/publication/2015-beafp-metaheuristic-algorithms-quadratic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2015-beafp-metaheuristic-algorithms-quadratic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization Strategies for Integrated Knapsack and Traveling Salesman Problems</title>
+      <link>/publication/2015-bfkww-optimization-strategies-integrated/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2015-bfkww-optimization-strategies-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation-Based Optimization with HeuristicLab: Practical Guidelines and Real-World Applications</title>
+      <link>/publication/2015-abvpw-simulation-based-optimization/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2015-abvpw-simulation-based-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupling simulation with HeuristicLab to solve facility layout problems</title>
+      <link>/publication/2009-bekwa-couplingsimulation-heuristic-lab/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2009-bekwa-couplingsimulation-heuristic-lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Algorithms and Genetic Programming: Modern Concepts and Practical Applications</title>
+      <link>/publication/2009-afwwb-genetic-algorithms-genetica/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2009-afwwb-genetic-algorithms-genetica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Genetic Programming Approach to Solve Scheduling Problems with Parallel Simulation</title>
+      <link>/publication/2008-bewwa-genetic-programming-approach/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2008-bewwa-genetic-programming-approach/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

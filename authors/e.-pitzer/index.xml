@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Pitzer on @Don</title>
+    <link>/authors/e.-pitzer/</link>
+    <description>Recent content in E. Pitzer on @Don</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/e.-pitzer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Integrating Exploratory Landscape Analysis into Metaheuristic Algorithms</title>
+      <link>/publication/2018-bepwa-integratingexploratorylandscape/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2018-bepwa-integratingexploratorylandscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture and Design of the HeuristicLab Optimization Environment</title>
+      <link>/publication/2014-wkbks-architecture-design-heuristic-lab/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2014-wkbks-architecture-design-heuristic-lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic algorithm selection for the quadratic assignment problem using fitness landscape analysis</title>
+      <link>/publication/2013-pibea-automaticalgorithmselection/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2013-pibea-automaticalgorithmselection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fitness landscape based parameter estimation for robust taboo search</title>
+      <link>/publication/2013-bepia-fitnesslandscapebased/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2013-bepia-fitnesslandscapebased/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yard storage assignment optimisation with neutral walks</title>
+      <link>/publication/2013-kbpwa-yardstorageassignment/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2013-kbpwa-yardstorageassignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive and automatic fitness landscape analysis using HeuristicLab</title>
+      <link>/publication/2012-piabw-comprehensiveautomaticfitness/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2012-piabw-comprehensiveautomaticfitness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generic hardness estimation using fitness and parameter landscapes applied to Robust Taboo Search and the quadratic assignment problem</title>
+      <link>/publication/2012-pibea-generichardnessestimation/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2012-pibea-generichardnessestimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration of Flexible Interfaces in Optimization Software Frameworks for Simulation-Based Optimization</title>
+      <link>/publication/2012-bpwaa-integration-flexible-interfaces/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2012-bpwaa-integration-flexible-interfaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new metric to measure distances between solutions to the Quadratic Assignment Problem</title>
+      <link>/publication/2011-bepia-newmetricmeasure/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2011-bepia-newmetricmeasure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Production Fine Planning Using a Solution Archive of Priority Rules</title>
+      <link>/publication/2011-pbahv-production-fine-planning/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2011-pbahv-production-fine-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Closer Look Down the Basins of Attraction</title>
+      <link>/publication/2010-piafb-closer-look-basins/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2010-piafb-closer-look-basins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-line parameter optimization strategies for metaheuristics</title>
+      <link>/publication/2010-apkpw-lineparameteroptimization/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2010-apkpw-lineparameteroptimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benefits of plugin-based heuristic optimization software systems</title>
+      <link>/publication/2007-wwpkb-benefitspluginbased/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2007-wwpkb-benefitspluginbased/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

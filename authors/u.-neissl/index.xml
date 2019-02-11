@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>U. Neissl on @Don</title>
+    <link>/authors/u.-neissl/</link>
+    <description>Recent content in U. Neissl on @Don</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/u.-neissl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enterprise interoperability as framework for project knowledge management</title>
+      <link>/publication/2017-wrbfs-enterpriseinteroperabilityas/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2017-wrbfs-enterpriseinteroperabilityas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

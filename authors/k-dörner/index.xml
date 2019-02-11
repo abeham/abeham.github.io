@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K Dörner on @Don</title>
+    <link>/authors/k-d%C3%B6rner/</link>
+    <description>Recent content in K Dörner on @Don</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/authors/k-d%C3%B6rner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simulation-Based Optimization of Transport Activities Within Cold Charge Steel Production</title>
+      <link>/publication/2013-vbkad-simulation-based-optimization/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/2013-vbkad-simulation-based-optimization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

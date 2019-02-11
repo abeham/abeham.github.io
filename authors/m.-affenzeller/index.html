@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 3.3.0">
+  <meta name="generator" content="Hugo 0.54.0" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Andreas Beham">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Research in Evolutionary Algorithms">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/authors/m.-affenzeller/">
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="/authors/m.-affenzeller/index.xml" type="application/rss+xml" title="@Don">
+  <link rel="feed" href="/authors/m.-affenzeller/index.xml" type="application/rss+xml" title="@Don">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/authors/m.-affenzeller/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@DonBeham">
+  <meta property="twitter:creator" content="@DonBeham">
+  
+  <meta property="og:site_name" content="@Don">
+  <meta property="og:url" content="/authors/m.-affenzeller/">
+  <meta property="og:title" content="M. Affenzeller | @Don">
+  <meta property="og:description" content="Research in Evolutionary Algorithms"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="og:updated_time" content="2018-01-01T00:00:00&#43;01:00">
+  
+
+  
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#2962ff",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#2962ff"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
+
+  
+
+  <title>M. Affenzeller | @Don</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">@Don</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/publication">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#posts">
+            
+            <span>Blog</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+
+
+<div class="universal-wrapper pt-3">
+  <h1 itemprop="name">M. Affenzeller</h1>
+</div>
+
+
+<section id="about" class="pt-5">
+  <div class="container">
+    
+    
+    
+    
+
+    
+    
+    
+    <div class="article-widget">
+      <div class="hr-light"></div>
+      <h3>Latest</h3>
+      <ul>
+        
+        <li>
+          <a href="/publication/2018-bepwa-integratingexploratorylandscape/">Integrating Exploratory Landscape Analysis into Metaheuristic Algorithms</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2017-hkbwa-general-solution-approach/">A General Solution Approach for the Location Routing Problem</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2017-wabea-analysis-visualization-impact/">Analysis and Visualization of the Impact of Different Parameter Configurations on the Behavior of Evolutionary Algorithms</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2017-bgkab-cyclicschedulingrobotic/">Cyclic scheduling of a robotic cell</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2017-habwa-optimizationnetworksreal/">Optimization networks for real-world production and logistics problems</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2017-kabwa-solving-traveling-thief/">Solving the Traveling Thief Problem using Orchestration in Optimization Networks</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2017-kwbka-towardsdesignimplementation/">Towards the design and implementation of optimization networks in heuristiclab</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2016-ksbwa-extending-simsimulation/">Extending Sim# for simulation-based optimisation of semi-automated machinery</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2016-bewaa-optimization-knowledge-center/">Optimization Knowledge Center: A decision support system for heuristic optimization</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2015-kobak-complexitymeasuresmulti/">Complexity measures for multi-objective symbolic regression</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2015-febwa-modelinglotaware/">Modeling a lot-aware slab stack shuffling problem</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2015-febwa-modellingclusteredgeneralized/">Modelling a clustered generalized quadratic assignment problem</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2015-kobwa-robuststorageassignment/">Robust storage assignment in warehouses with correlated demand</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2015-sbkkw-simplifyingproblemdefinitions/">Simplifying problem definitions in the HeuristicLab optimization environment</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2015-ksbwa-simulationbasedset/">Simulation-based set-up time optimization using Sim# and Heuristiclab</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2014-wkbks-architecture-design-heuristic-lab/">Architecture and Design of the HeuristicLab Optimization Environment</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2014-bkkks-integratedsimulationoptimization/">Integrated simulation and optimization in heuristiclab</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2014-hbaaw-softwareenabledinvestigation/">Software-enabled investigation in metaheuristic power grid optimization</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2013-pibea-automaticalgorithmselection/">Automatic algorithm selection for the quadratic assignment problem using fitness landscape analysis</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2013-bepia-fitnesslandscapebased/">Fitness landscape based parameter estimation for robust taboo search</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2013-vablw-simulationbasedevolution/">Simulation-based evolution of resupply and routing policies in rich vendor-managed inventory scenarios</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2013-vobka-structuralsynthesisdispatching/">Structural synthesis of dispatching rules for dynamic dial-A-ride problems</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2013-kbpwa-yardstorageassignment/">Yard storage assignment optimisation with neutral walks</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2012-vbawm-combinationcomparisondifferent/">Combination and comparison of different genetic encodings for the vehicle routing problem</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2012-piabw-comprehensiveautomaticfitness/">Comprehensive and automatic fitness landscape analysis using HeuristicLab</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2012-pibea-generichardnessestimation/">Generic hardness estimation using fitness and parameter landscapes applied to Robust Taboo Search and the quadratic assignment problem</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2012-bpwaa-integration-flexible-interfaces/">Integration of Flexible Interfaces in Optimization Software Frameworks for Simulation-Based Optimization</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2012-kwkbs-knowledgediscoverysymbolic/">Knowledge discovery through symbolic regression with HeuristicLab</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2012-kbvwa-modellingoptimizingstorage/">Modelling and optimizing storage assignment in a steel slab yard</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2012-vkbaa-optimizingassemblyline/">Optimizing assembly line supply by integrating warehouse picking and forklift routing using simulation</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2011-wabkw-mutation-effects-genetic/">Mutation Effects in Genetic Algorithms with Offspring Selection Applied to Combinatorial Optimization Problems</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2011-bepia-newmetricmeasure/">A new metric to measure distances between solutions to the Quadratic Assignment Problem</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2011-afwwb-analysis-allele-distribution/">Analysis of Allele Distribution Dynamics in Different Genetic Algorithms</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2011-pbahv-production-fine-planning/">Production Fine Planning Using a Solution Archive of Priority Rules</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2011-kbwaa-rewarehousingvs-/">Re-warehousing vs. healing: Strategies for warehouse storage location assignment</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2011-vabwl-simulationbasedevolution/">Simulation-based evolution of municipal glass-waste collection strategies utilizing electric trucks</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2011-voabw-solvinglargescale/">Solving large-scale vehicle routing problem instances using an island-model offspring selection genetic algorithm</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2010-piafb-closer-look-basins/">A Closer Look Down the Basins of Attraction</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2010-vwbka-simulationbasedapproach/">A simulation-based approach to the vehicle routing problem</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2010-afwwb-analysisdynamicsallele/">Analysis of the dynamics of allele distribution for some selected GA-variants</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2010-bkwah-enhanced-priority-rule/">Enhanced Priority Rule Synthesis with Waiting Conditions</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2010-vowba-benefitsdomainspecific/">On the benefits of a domain-specific language for modeling metaheuristic optimization algorithms</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2010-apkpw-lineparameteroptimization/">On-line parameter optimization strategies for metaheuristics</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2010-kbwar-reassigningstoragelocations/">Reassigning storage locations in a warehouse to optimize the order picking process</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2010-bkwap-usingerpdriven/">Using erp-driven flow analysis to optimize a constrained facility layout problem</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2009-bekwa-agentbasedsimulation/">Agent-based simulation of dispatching rules in dynamic pickup and delivery problems</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2009-kobwa-evaluationdispatchingstrategies/">Evaluation of dispatching strategies for the optimization of a real-world production plant</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2009-bekaw-evolutionaryselectionsimulation/">Evolutionary selection in simulation-based optimization</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2009-awwbk-metaheuristic-optimization/">Metaheuristic Optimization</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2009-wkbwa-modeldrivenrapid/">Model driven rapid prototyping of heuristic optimization algorithms</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2009-afwbw-influenceselectionschemes/">On the influence of selection schemes on the genetic diversity in genetic algorithms</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2009-kwabw-successratecrossover/">On the success rate of crossover operators for genetic programming with offspring selection</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2009-kwbka-priorityrulegeneration/">Priority rule generation with a genetic algorithm to minimize sequence dependent setup costs</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2008-wkbwa-modelingheuristicoptimization/">Modeling of heuristic optimization algorithms</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2008-kobaw-optimizationmedicalultrasound/">Optimization of medical ultrasound transducers with simulation and genetic algorithms</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2008-beawk-simulationoptimization-heuristic-lab/">Simulation optimization with HeuristicLab</a>
+        </li>
+        
+        <li>
+          <a href="/publication/2007-wwpkb-benefitspluginbased/">Benefits of plugin-based heuristic optimization software systems</a>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+  
+</section>
+
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.7903dc64949b0cecbfa70e940e162fa7.js"></script>
+
+  </body>
+</html>
+

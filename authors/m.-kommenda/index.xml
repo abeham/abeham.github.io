@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Kommenda on @Don</title>
+    <link>/authors/m.-kommenda/</link>
+    <description>Recent content in M. Kommenda on @Don</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/m.-kommenda/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Towards the design and implementation of optimization networks in heuristiclab</title>
+      <link>/publication/2017-kwbka-towardsdesignimplementation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2017-kwbka-towardsdesignimplementation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complexity measures for multi-objective symbolic regression</title>
+      <link>/publication/2015-kobak-complexitymeasuresmulti/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2015-kobak-complexitymeasuresmulti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplifying problem definitions in the HeuristicLab optimization environment</title>
+      <link>/publication/2015-sbkkw-simplifyingproblemdefinitions/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2015-sbkkw-simplifyingproblemdefinitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture and Design of the HeuristicLab Optimization Environment</title>
+      <link>/publication/2014-wkbks-architecture-design-heuristic-lab/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2014-wkbks-architecture-design-heuristic-lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated simulation and optimization in heuristiclab</title>
+      <link>/publication/2014-bkkks-integratedsimulationoptimization/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2014-bkkks-integratedsimulationoptimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scripting and framework integration in heuristic optimization environments</title>
+      <link>/publication/2014-bkkwk-scriptingframeworkintegration/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2014-bkkwk-scriptingframeworkintegration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural synthesis of dispatching rules for dynamic dial-A-ride problems</title>
+      <link>/publication/2013-vobka-structuralsynthesisdispatching/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2013-vobka-structuralsynthesisdispatching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge discovery through symbolic regression with HeuristicLab</title>
+      <link>/publication/2012-kwkbs-knowledgediscoverysymbolic/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/2012-kwkbs-knowledgediscoverysymbolic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

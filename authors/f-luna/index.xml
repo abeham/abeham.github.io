@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>F Luna on @Don</title>
+    <title>F Luna | @Don</title>
     <link>/authors/f-luna/</link>
-    <description>Recent content in F Luna on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Sep 2005 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="/authors/f-luna/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/f-luna/index.xml" rel="self" type="application/rss+xml" />
+    <description>F Luna</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2005 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>F Luna</title>
+      <link>/authors/f-luna/</link>
+    </image>
     
     <item>
       <title>Un Estudio de la Aplicación del Algoritmo de Búsqueda Dispersa a Optimización Multiobjetivo</title>
       <link>/publication/2005-nelab-un-estudiode/</link>
       <pubDate>Thu, 01 Sep 2005 00:00:00 +0200</pubDate>
-      
       <guid>/publication/2005-nelab-un-estudiode/</guid>
       <description></description>
     </item>

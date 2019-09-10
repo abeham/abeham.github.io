@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>V Dorfer on @Don</title>
+    <title>V Dorfer | @Don</title>
     <link>/authors/v-dorfer/</link>
-    <description>Recent content in V Dorfer on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="/authors/v-dorfer/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/v-dorfer/index.xml" rel="self" type="application/rss+xml" />
+    <description>V Dorfer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>V Dorfer</title>
+      <link>/authors/v-dorfer/</link>
+    </image>
     
     <item>
       <title>HeuristicLab 3.3: An Extendable and Flexible Software System for Heuristic Optimization</title>
       <link>/publication/2011-wbkkp-heuristic-lab-3-3-extendable/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0200</pubDate>
-      
       <guid>/publication/2011-wbkkp-heuristic-lab-3-3-extendable/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>HeuristicLab 3.3: A unified approach to metaheuristic optimization</title>
       <link>/publication/2010-wbkkp-heuristic-lab-3-3-unified/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0200</pubDate>
-      
       <guid>/publication/2010-wbkkp-heuristic-lab-3-3-unified/</guid>
       <description></description>
     </item>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Judith Fechter on @Don</title>
+    <title>Judith Fechter | @Don</title>
     <link>/authors/judith-fechter/</link>
-    <description>Recent content in Judith Fechter on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/authors/judith-fechter/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/judith-fechter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Judith Fechter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Judith Fechter</title>
+      <link>/authors/judith-fechter/</link>
+    </image>
     
     <item>
       <title>A dynamic multicommodity network flow problem for logistics networks</title>
       <link>/publication/2015-rafeb-dynamicmulticommoditynetwork/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2015-rafeb-dynamicmulticommoditynetwork/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Optimization Strategies for Integrated Knapsack and Traveling Salesman Problems</title>
       <link>/publication/2015-bfkww-optimization-strategies-integrated/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2015-bfkww-optimization-strategies-integrated/</guid>
       <description></description>
     </item>

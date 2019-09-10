@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>F. Auinger on @Don</title>
+    <title>F. Auinger | @Don</title>
     <link>/authors/f.-auinger/</link>
-    <description>Recent content in F. Auinger on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/authors/f.-auinger/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/f.-auinger/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Auinger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>F. Auinger</title>
+      <link>/authors/f.-auinger/</link>
+    </image>
     
     <item>
       <title>Software-enabled investigation in metaheuristic power grid optimization</title>
       <link>/publication/2014-hbaaw-softwareenabledinvestigation/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2014-hbaaw-softwareenabledinvestigation/</guid>
       <description></description>
     </item>

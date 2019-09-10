@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Hölzl | @Don</title>
+    <link>/authors/e.-holzl/</link>
+      <atom:link href="/authors/e.-holzl/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Hölzl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>E. Hölzl</title>
+      <link>/authors/e.-holzl/</link>
+    </image>
+    
+    <item>
+      <title>Slab Stacking Automation in the Hot Slab Yard as Key Factor for Post-Processing of Cast Slabs</title>
+      <link>/publication/2017-cbrhp-slab-stacking-automation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/2017-cbrhp-slab-stacking-automation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

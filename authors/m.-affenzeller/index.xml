@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M. Affenzeller on @Don</title>
+    <title>M. Affenzeller | @Don</title>
     <link>/authors/m.-affenzeller/</link>
-    <description>Recent content in M. Affenzeller on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/authors/m.-affenzeller/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/m.-affenzeller/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Affenzeller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M. Affenzeller</title>
+      <link>/authors/m.-affenzeller/</link>
+    </image>
     
     <item>
       <title>Integrating Exploratory Landscape Analysis into Metaheuristic Algorithms</title>
       <link>/publication/2018-bepwa-integratingexploratorylandscape/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2018-bepwa-integratingexploratorylandscape/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>A General Solution Approach for the Location Routing Problem</title>
       <link>/publication/2017-hkbwa-general-solution-approach/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2017-hkbwa-general-solution-approach/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Analysis and Visualization of the Impact of Different Parameter Configurations on the Behavior of Evolutionary Algorithms</title>
       <link>/publication/2017-wabea-analysis-visualization-impact/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2017-wabea-analysis-visualization-impact/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>Cyclic scheduling of a robotic cell</title>
       <link>/publication/2017-bgkab-cyclicschedulingrobotic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2017-bgkab-cyclicschedulingrobotic/</guid>
       <description></description>
     </item>
@@ -51,7 +48,6 @@
       <title>Optimization networks for real-world production and logistics problems</title>
       <link>/publication/2017-habwa-optimizationnetworksreal/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2017-habwa-optimizationnetworksreal/</guid>
       <description></description>
     </item>
@@ -60,7 +56,6 @@
       <title>Solving the Traveling Thief Problem using Orchestration in Optimization Networks</title>
       <link>/publication/2017-kabwa-solving-traveling-thief/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2017-kabwa-solving-traveling-thief/</guid>
       <description></description>
     </item>
@@ -69,7 +64,6 @@
       <title>Towards the design and implementation of optimization networks in heuristiclab</title>
       <link>/publication/2017-kwbka-towardsdesignimplementation/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2017-kwbka-towardsdesignimplementation/</guid>
       <description></description>
     </item>
@@ -78,7 +72,6 @@
       <title>Extending Sim# for simulation-based optimisation of semi-automated machinery</title>
       <link>/publication/2016-ksbwa-extending-simsimulation/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2016-ksbwa-extending-simsimulation/</guid>
       <description></description>
     </item>
@@ -87,7 +80,6 @@
       <title>Optimization Knowledge Center: A decision support system for heuristic optimization</title>
       <link>/publication/2016-bewaa-optimization-knowledge-center/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2016-bewaa-optimization-knowledge-center/</guid>
       <description></description>
     </item>
@@ -96,7 +88,6 @@
       <title>Complexity measures for multi-objective symbolic regression</title>
       <link>/publication/2015-kobak-complexitymeasuresmulti/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2015-kobak-complexitymeasuresmulti/</guid>
       <description></description>
     </item>
@@ -105,7 +96,6 @@
       <title>Modeling a lot-aware slab stack shuffling problem</title>
       <link>/publication/2015-febwa-modelinglotaware/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2015-febwa-modelinglotaware/</guid>
       <description></description>
     </item>
@@ -114,7 +104,6 @@
       <title>Modelling a clustered generalized quadratic assignment problem</title>
       <link>/publication/2015-febwa-modellingclusteredgeneralized/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2015-febwa-modellingclusteredgeneralized/</guid>
       <description></description>
     </item>
@@ -123,7 +112,6 @@
       <title>Robust storage assignment in warehouses with correlated demand</title>
       <link>/publication/2015-kobwa-robuststorageassignment/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2015-kobwa-robuststorageassignment/</guid>
       <description></description>
     </item>
@@ -132,7 +120,6 @@
       <title>Simplifying problem definitions in the HeuristicLab optimization environment</title>
       <link>/publication/2015-sbkkw-simplifyingproblemdefinitions/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2015-sbkkw-simplifyingproblemdefinitions/</guid>
       <description></description>
     </item>
@@ -141,7 +128,6 @@
       <title>Simulation-based set-up time optimization using Sim# and Heuristiclab</title>
       <link>/publication/2015-ksbwa-simulationbasedset/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2015-ksbwa-simulationbasedset/</guid>
       <description></description>
     </item>
@@ -150,7 +136,6 @@
       <title>Architecture and Design of the HeuristicLab Optimization Environment</title>
       <link>/publication/2014-wkbks-architecture-design-heuristic-lab/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2014-wkbks-architecture-design-heuristic-lab/</guid>
       <description></description>
     </item>
@@ -159,7 +144,6 @@
       <title>Integrated simulation and optimization in heuristiclab</title>
       <link>/publication/2014-bkkks-integratedsimulationoptimization/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2014-bkkks-integratedsimulationoptimization/</guid>
       <description></description>
     </item>
@@ -168,7 +152,6 @@
       <title>Software-enabled investigation in metaheuristic power grid optimization</title>
       <link>/publication/2014-hbaaw-softwareenabledinvestigation/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2014-hbaaw-softwareenabledinvestigation/</guid>
       <description></description>
     </item>
@@ -177,7 +160,6 @@
       <title>Automatic algorithm selection for the quadratic assignment problem using fitness landscape analysis</title>
       <link>/publication/2013-pibea-automaticalgorithmselection/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2013-pibea-automaticalgorithmselection/</guid>
       <description></description>
     </item>
@@ -186,7 +168,6 @@
       <title>Fitness landscape based parameter estimation for robust taboo search</title>
       <link>/publication/2013-bepia-fitnesslandscapebased/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2013-bepia-fitnesslandscapebased/</guid>
       <description></description>
     </item>
@@ -195,7 +176,6 @@
       <title>Simulation-based evolution of resupply and routing policies in rich vendor-managed inventory scenarios</title>
       <link>/publication/2013-vablw-simulationbasedevolution/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2013-vablw-simulationbasedevolution/</guid>
       <description></description>
     </item>
@@ -204,7 +184,6 @@
       <title>Structural synthesis of dispatching rules for dynamic dial-A-ride problems</title>
       <link>/publication/2013-vobka-structuralsynthesisdispatching/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2013-vobka-structuralsynthesisdispatching/</guid>
       <description></description>
     </item>
@@ -213,7 +192,6 @@
       <title>Yard storage assignment optimisation with neutral walks</title>
       <link>/publication/2013-kbpwa-yardstorageassignment/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2013-kbpwa-yardstorageassignment/</guid>
       <description></description>
     </item>
@@ -222,7 +200,6 @@
       <title>Combination and comparison of different genetic encodings for the vehicle routing problem</title>
       <link>/publication/2012-vbawm-combinationcomparisondifferent/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2012-vbawm-combinationcomparisondifferent/</guid>
       <description></description>
     </item>
@@ -231,7 +208,6 @@
       <title>Comprehensive and automatic fitness landscape analysis using HeuristicLab</title>
       <link>/publication/2012-piabw-comprehensiveautomaticfitness/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2012-piabw-comprehensiveautomaticfitness/</guid>
       <description></description>
     </item>
@@ -240,7 +216,6 @@
       <title>Generic hardness estimation using fitness and parameter landscapes applied to Robust Taboo Search and the quadratic assignment problem</title>
       <link>/publication/2012-pibea-generichardnessestimation/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2012-pibea-generichardnessestimation/</guid>
       <description></description>
     </item>
@@ -249,7 +224,6 @@
       <title>Integration of Flexible Interfaces in Optimization Software Frameworks for Simulation-Based Optimization</title>
       <link>/publication/2012-bpwaa-integration-flexible-interfaces/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2012-bpwaa-integration-flexible-interfaces/</guid>
       <description></description>
     </item>
@@ -258,7 +232,6 @@
       <title>Knowledge discovery through symbolic regression with HeuristicLab</title>
       <link>/publication/2012-kwkbs-knowledgediscoverysymbolic/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2012-kwkbs-knowledgediscoverysymbolic/</guid>
       <description></description>
     </item>
@@ -267,7 +240,6 @@
       <title>Modelling and optimizing storage assignment in a steel slab yard</title>
       <link>/publication/2012-kbvwa-modellingoptimizingstorage/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2012-kbvwa-modellingoptimizingstorage/</guid>
       <description></description>
     </item>
@@ -276,7 +248,6 @@
       <title>Optimizing assembly line supply by integrating warehouse picking and forklift routing using simulation</title>
       <link>/publication/2012-vkbaa-optimizingassemblyline/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2012-vkbaa-optimizingassemblyline/</guid>
       <description></description>
     </item>
@@ -285,7 +256,6 @@
       <title>Mutation Effects in Genetic Algorithms with Offspring Selection Applied to Combinatorial Optimization Problems</title>
       <link>/publication/2011-wabkw-mutation-effects-genetic/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0200</pubDate>
-      
       <guid>/publication/2011-wabkw-mutation-effects-genetic/</guid>
       <description></description>
     </item>
@@ -294,7 +264,6 @@
       <title>A new metric to measure distances between solutions to the Quadratic Assignment Problem</title>
       <link>/publication/2011-bepia-newmetricmeasure/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2011-bepia-newmetricmeasure/</guid>
       <description></description>
     </item>
@@ -303,7 +272,6 @@
       <title>Analysis of Allele Distribution Dynamics in Different Genetic Algorithms</title>
       <link>/publication/2011-afwwb-analysis-allele-distribution/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2011-afwwb-analysis-allele-distribution/</guid>
       <description></description>
     </item>
@@ -312,7 +280,6 @@
       <title>Production Fine Planning Using a Solution Archive of Priority Rules</title>
       <link>/publication/2011-pbahv-production-fine-planning/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2011-pbahv-production-fine-planning/</guid>
       <description></description>
     </item>
@@ -321,7 +288,6 @@
       <title>Re-warehousing vs. healing: Strategies for warehouse storage location assignment</title>
       <link>/publication/2011-kbwaa-rewarehousingvs-/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2011-kbwaa-rewarehousingvs-/</guid>
       <description></description>
     </item>
@@ -330,7 +296,6 @@
       <title>Simulation-based evolution of municipal glass-waste collection strategies utilizing electric trucks</title>
       <link>/publication/2011-vabwl-simulationbasedevolution/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2011-vabwl-simulationbasedevolution/</guid>
       <description></description>
     </item>
@@ -339,7 +304,6 @@
       <title>Solving large-scale vehicle routing problem instances using an island-model offspring selection genetic algorithm</title>
       <link>/publication/2011-voabw-solvinglargescale/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2011-voabw-solvinglargescale/</guid>
       <description></description>
     </item>
@@ -348,7 +312,6 @@
       <title>A Closer Look Down the Basins of Attraction</title>
       <link>/publication/2010-piafb-closer-look-basins/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2010-piafb-closer-look-basins/</guid>
       <description></description>
     </item>
@@ -357,7 +320,6 @@
       <title>A simulation-based approach to the vehicle routing problem</title>
       <link>/publication/2010-vwbka-simulationbasedapproach/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2010-vwbka-simulationbasedapproach/</guid>
       <description></description>
     </item>
@@ -366,7 +328,6 @@
       <title>Analysis of the dynamics of allele distribution for some selected GA-variants</title>
       <link>/publication/2010-afwwb-analysisdynamicsallele/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2010-afwwb-analysisdynamicsallele/</guid>
       <description></description>
     </item>
@@ -375,7 +336,6 @@
       <title>Enhanced Priority Rule Synthesis with Waiting Conditions</title>
       <link>/publication/2010-bkwah-enhanced-priority-rule/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2010-bkwah-enhanced-priority-rule/</guid>
       <description></description>
     </item>
@@ -384,7 +344,6 @@
       <title>On the benefits of a domain-specific language for modeling metaheuristic optimization algorithms</title>
       <link>/publication/2010-vowba-benefitsdomainspecific/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2010-vowba-benefitsdomainspecific/</guid>
       <description></description>
     </item>
@@ -393,7 +352,6 @@
       <title>On-line parameter optimization strategies for metaheuristics</title>
       <link>/publication/2010-apkpw-lineparameteroptimization/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2010-apkpw-lineparameteroptimization/</guid>
       <description></description>
     </item>
@@ -402,7 +360,6 @@
       <title>Reassigning storage locations in a warehouse to optimize the order picking process</title>
       <link>/publication/2010-kbwar-reassigningstoragelocations/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2010-kbwar-reassigningstoragelocations/</guid>
       <description></description>
     </item>
@@ -411,7 +368,6 @@
       <title>Using erp-driven flow analysis to optimize a constrained facility layout problem</title>
       <link>/publication/2010-bkwap-usingerpdriven/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2010-bkwap-usingerpdriven/</guid>
       <description></description>
     </item>
@@ -420,7 +376,6 @@
       <title>Agent-based simulation of dispatching rules in dynamic pickup and delivery problems</title>
       <link>/publication/2009-bekwa-agentbasedsimulation/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-bekwa-agentbasedsimulation/</guid>
       <description></description>
     </item>
@@ -429,7 +384,6 @@
       <title>Evaluation of dispatching strategies for the optimization of a real-world production plant</title>
       <link>/publication/2009-kobwa-evaluationdispatchingstrategies/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-kobwa-evaluationdispatchingstrategies/</guid>
       <description></description>
     </item>
@@ -438,7 +392,6 @@
       <title>Evolutionary selection in simulation-based optimization</title>
       <link>/publication/2009-bekaw-evolutionaryselectionsimulation/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-bekaw-evolutionaryselectionsimulation/</guid>
       <description></description>
     </item>
@@ -447,7 +400,6 @@
       <title>Metaheuristic Optimization</title>
       <link>/publication/2009-awwbk-metaheuristic-optimization/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-awwbk-metaheuristic-optimization/</guid>
       <description></description>
     </item>
@@ -456,7 +408,6 @@
       <title>Model driven rapid prototyping of heuristic optimization algorithms</title>
       <link>/publication/2009-wkbwa-modeldrivenrapid/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-wkbwa-modeldrivenrapid/</guid>
       <description></description>
     </item>
@@ -465,7 +416,6 @@
       <title>On the influence of selection schemes on the genetic diversity in genetic algorithms</title>
       <link>/publication/2009-afwbw-influenceselectionschemes/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-afwbw-influenceselectionschemes/</guid>
       <description></description>
     </item>
@@ -474,7 +424,6 @@
       <title>On the success rate of crossover operators for genetic programming with offspring selection</title>
       <link>/publication/2009-kwabw-successratecrossover/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-kwabw-successratecrossover/</guid>
       <description></description>
     </item>
@@ -483,7 +432,6 @@
       <title>Priority rule generation with a genetic algorithm to minimize sequence dependent setup costs</title>
       <link>/publication/2009-kwbka-priorityrulegeneration/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-kwbka-priorityrulegeneration/</guid>
       <description></description>
     </item>
@@ -492,7 +440,6 @@
       <title>Modeling of heuristic optimization algorithms</title>
       <link>/publication/2008-wkbwa-modelingheuristicoptimization/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2008-wkbwa-modelingheuristicoptimization/</guid>
       <description></description>
     </item>
@@ -501,7 +448,6 @@
       <title>Optimization of medical ultrasound transducers with simulation and genetic algorithms</title>
       <link>/publication/2008-kobaw-optimizationmedicalultrasound/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2008-kobaw-optimizationmedicalultrasound/</guid>
       <description></description>
     </item>
@@ -510,7 +456,6 @@
       <title>Simulation optimization with HeuristicLab</title>
       <link>/publication/2008-beawk-simulationoptimization-heuristic-lab/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2008-beawk-simulationoptimization-heuristic-lab/</guid>
       <description></description>
     </item>
@@ -519,7 +464,6 @@
       <title>Benefits of plugin-based heuristic optimization software systems</title>
       <link>/publication/2007-wwpkb-benefitspluginbased/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2007-wwpkb-benefitspluginbased/</guid>
       <description></description>
     </item>

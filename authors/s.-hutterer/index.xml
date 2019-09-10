@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. Hutterer on @Don</title>
+    <title>S. Hutterer | @Don</title>
     <link>/authors/s.-hutterer/</link>
-    <description>Recent content in S. Hutterer on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/authors/s.-hutterer/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/s.-hutterer/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Hutterer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S. Hutterer</title>
+      <link>/authors/s.-hutterer/</link>
+    </image>
     
     <item>
       <title>Software-enabled investigation in metaheuristic power grid optimization</title>
       <link>/publication/2014-hbaaw-softwareenabledinvestigation/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2014-hbaaw-softwareenabledinvestigation/</guid>
       <description></description>
     </item>

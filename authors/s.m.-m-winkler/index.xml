@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S.M. M Winkler on @Don</title>
+    <title>S.M. M Winkler | @Don</title>
     <link>/authors/s.m.-m-winkler/</link>
-    <description>Recent content in S.M. M Winkler on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="/authors/s.m.-m-winkler/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/s.m.-m-winkler/index.xml" rel="self" type="application/rss+xml" />
+    <description>S.M. M Winkler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S.M. M Winkler</title>
+      <link>/authors/s.m.-m-winkler/</link>
+    </image>
     
     <item>
       <title>Mutation Effects in Genetic Algorithms with Offspring Selection Applied to Combinatorial Optimization Problems</title>
       <link>/publication/2011-wabkw-mutation-effects-genetic/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0200</pubDate>
-      
       <guid>/publication/2011-wabkw-mutation-effects-genetic/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Analysis of Allele Distribution Dynamics in Different Genetic Algorithms</title>
       <link>/publication/2011-afwwb-analysis-allele-distribution/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2011-afwwb-analysis-allele-distribution/</guid>
       <description></description>
     </item>

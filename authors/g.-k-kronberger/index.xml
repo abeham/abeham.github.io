@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>G. K Kronberger on @Don</title>
+    <title>G. K Kronberger | @Don</title>
     <link>/authors/g.-k-kronberger/</link>
-    <description>Recent content in G. K Kronberger on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="/authors/g.-k-kronberger/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/g.-k-kronberger/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. K Kronberger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>G. K Kronberger</title>
+      <link>/authors/g.-k-kronberger/</link>
+    </image>
     
     <item>
       <title>Mutation Effects in Genetic Algorithms with Offspring Selection Applied to Combinatorial Optimization Problems</title>
       <link>/publication/2011-wabkw-mutation-effects-genetic/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0200</pubDate>
-      
       <guid>/publication/2011-wabkw-mutation-effects-genetic/</guid>
       <description></description>
     </item>

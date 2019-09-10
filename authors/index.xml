@@ -1,111 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on @Don</title>
+    <title>Authors | @Don</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>A Beham</title>
-      <link>/authors/a-beham/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/a-beham/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Gnatowski</title>
-      <link>/authors/a-gnatowski/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/a-gnatowski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Nebro</title>
-      <link>/authors/a-nebro/</link>
-      <pubDate>Thu, 01 Sep 2005 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/a-nebro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Peirleitner</title>
-      <link>/authors/a-peirleitner/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/a-peirleitner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Scheibenpflug</title>
-      <link>/authors/a-scheibenpflug/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/a-scheibenpflug/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Beham</title>
-      <link>/authors/a.-beham/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/a.-beham/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Gnatowski</title>
-      <link>/authors/a.-gnatowski/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/a.-gnatowski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Mayr</title>
-      <link>/authors/a.-mayr/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/a.-mayr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Scheibenpflug</title>
-      <link>/authors/a.-scheibenpflug/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/a.-scheibenpflug/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A.J. Nebro</title>
-      <link>/authors/a.j.-nebro/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/a.j.-nebro/</guid>
-      <description></description>
-    </item>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
     
     <item>
       <title>Andreas Beham</title>
       <link>/authors/andreas-beham/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>/authors/andreas-beham/</guid>
       <description></description>
     </item>
@@ -114,314 +24,39 @@
       <title>Andrzej Gnatowski</title>
       <link>/authors/andrzej-gnatowski/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>/authors/andrzej-gnatowski/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>B Can</title>
-      <link>/authors/b-can/</link>
-      <pubDate>Tue, 01 Apr 2008 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/b-can/</guid>
+      <title>Michael Affenzeller</title>
+      <link>/authors/michael-affenzeller/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>/authors/michael-affenzeller/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>B Werth</title>
-      <link>/authors/b-werth/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/b-werth/</guid>
+      <title>Teodor Niżyński</title>
+      <link>/authors/teodor-nizynski/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>/authors/teodor-nizynski/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>B. Can</title>
-      <link>/authors/b.-can/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/b.-can/</guid>
+      <title>Wojciech Bożejko</title>
+      <link>/authors/wojciech-bozejko/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>/authors/wojciech-bozejko/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>B. Dorronsoro</title>
-      <link>/authors/b.-dorronsoro/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/b.-dorronsoro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>B. Roljic</title>
-      <link>/authors/b.-roljic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/b.-roljic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bogdan Burlacu</title>
-      <link>/authors/bogdan-burlacu/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/bogdan-burlacu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C Heavey</title>
-      <link>/authors/c-heavey/</link>
-      <pubDate>Tue, 01 Apr 2008 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/c-heavey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C Neumüller</title>
-      <link>/authors/c-neum%C3%BCller/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/c-neum%C3%BCller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. Heavey</title>
-      <link>/authors/c.-heavey/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/c.-heavey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. Reitinger</title>
-      <link>/authors/c.-reitinger/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/c.-reitinger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E Alba</title>
-      <link>/authors/e-alba/</link>
-      <pubDate>Thu, 01 Sep 2005 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/e-alba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E Lengauer</title>
-      <link>/authors/e-lengauer/</link>
-      <pubDate>Sun, 01 Apr 2012 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/e-lengauer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E Pitzer</title>
-      <link>/authors/e-pitzer/</link>
-      <pubDate>Sun, 01 Apr 2012 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/e-pitzer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. Alba</title>
-      <link>/authors/e.-alba/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/e.-alba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. Hölzl</title>
-      <link>/authors/e.-h%C3%B6lzl/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/e.-h%C3%B6lzl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. Lengauer</title>
-      <link>/authors/e.-lengauer/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/e.-lengauer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. Pitzer</title>
-      <link>/authors/e.-pitzer/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/e.-pitzer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Erik Pitzer</title>
-      <link>/authors/erik-pitzer/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/erik-pitzer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>F Luna</title>
-      <link>/authors/f-luna/</link>
-      <pubDate>Thu, 01 Sep 2005 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/f-luna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>F Tricoire</title>
-      <link>/authors/f-tricoire/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/f-tricoire/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>F. Auinger</title>
-      <link>/authors/f.-auinger/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/f.-auinger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>F. Luna</title>
-      <link>/authors/f.-luna/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/f.-luna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fabien Tricoire</title>
-      <link>/authors/fabien-tricoire/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/fabien-tricoire/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G K Kronberger</title>
-      <link>/authors/g-k-kronberger/</link>
-      <pubDate>Fri, 01 Apr 2011 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/g-k-kronberger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G Merkuryeva</title>
-      <link>/authors/g-merkuryeva/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/g-merkuryeva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G. K Kronberger</title>
-      <link>/authors/g.-k-kronberger/</link>
-      <pubDate>Fri, 01 Apr 2011 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/g.-k-kronberger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G. Kronberger</title>
-      <link>/authors/g.-kronberger/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/g.-kronberger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G. Weichhart</title>
-      <link>/authors/g.-weichhart/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/g.-weichhart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G.K. Kronberger</title>
-      <link>/authors/g.k.-kronberger/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/g.k.-kronberger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gabriel Kronberger</title>
-      <link>/authors/gabriel-kronberger/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/gabriel-kronberger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>H Heiss</title>
-      <link>/authors/h-heiss/</link>
-      <pubDate>Sun, 01 Apr 2012 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/h-heiss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>H. Heiss</title>
-      <link>/authors/h.-heiss/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/h.-heiss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>H. Moser</title>
-      <link>/authors/h.-moser/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/h.-moser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>H. Zörrer</title>
-      <link>/authors/h.-z%C3%B6rrer/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/h.-z%C3%B6rrer/</guid>
+      <title>A Beham</title>
+      <link>/authors/a-beham/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/a-beham/</guid>
       <description></description>
     </item>
     
@@ -429,8 +64,23 @@
       <title>J Fechter</title>
       <link>/authors/j-fechter/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      
       <guid>/authors/j-fechter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Affenzeller</title>
+      <link>/authors/m-affenzeller/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/m-affenzeller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Wagner</title>
+      <link>/authors/s-wagner/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/s-wagner/</guid>
       <description></description>
     </item>
     
@@ -438,35 +88,71 @@
       <title>J Karder</title>
       <link>/authors/j-karder/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-      
       <guid>/authors/j-karder/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>J. Durillo</title>
-      <link>/authors/j.-durillo/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/j.-durillo/</guid>
+      <title>A Gnatowski</title>
+      <link>/authors/a-gnatowski/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/a-gnatowski/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>J. Fechter</title>
-      <link>/authors/j.-fechter/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/j.-fechter/</guid>
+      <title>A Peirleitner</title>
+      <link>/authors/a-peirleitner/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/a-peirleitner/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>J. Karder</title>
-      <link>/authors/j.-karder/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/j.-karder/</guid>
+      <title>A. Beham</title>
+      <link>/authors/a.-beham/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/a.-beham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B Werth</title>
+      <link>/authors/b-werth/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/b-werth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bogdan Burlacu</title>
+      <link>/authors/bogdan-burlacu/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/bogdan-burlacu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Pitzer</title>
+      <link>/authors/e.-pitzer/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/e.-pitzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabien Tricoire</title>
+      <link>/authors/fabien-tricoire/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/fabien-tricoire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gabriel Kronberger</title>
+      <link>/authors/gabriel-kronberger/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/gabriel-kronberger/</guid>
       <description></description>
     </item>
     
@@ -474,17 +160,7 @@
       <title>Johannes Karder</title>
       <link>/authors/johannes-karder/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>/authors/johannes-karder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Judith Fechter</title>
-      <link>/authors/judith-fechter/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/judith-fechter/</guid>
       <description></description>
     </item>
     
@@ -492,7 +168,6 @@
       <title>Judith Scagnetti</title>
       <link>/authors/judith-scagnetti/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>/authors/judith-scagnetti/</guid>
       <description></description>
     </item>
@@ -501,80 +176,7 @@
       <title>K Altendorfer</title>
       <link>/authors/k-altendorfer/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>/authors/k-altendorfer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K Dörner</title>
-      <link>/authors/k-d%C3%B6rner/</link>
-      <pubDate>Sun, 01 Sep 2013 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/k-d%C3%B6rner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K. Altendorfer</title>
-      <link>/authors/k.-altendorfer/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/k.-altendorfer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K. Probst</title>
-      <link>/authors/k.-probst/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/k.-probst/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. Pöllabauer</title>
-      <link>/authors/l.-p%C3%B6llabauer/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/l.-p%C3%B6llabauer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M Affenzeller</title>
-      <link>/authors/m-affenzeller/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/m-affenzeller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M Kofler</title>
-      <link>/authors/m-kofler/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/m-kofler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M Kommenda</title>
-      <link>/authors/m-kommenda/</link>
-      <pubDate>Fri, 01 Apr 2011 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/m-kommenda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M Vorderwinkler</title>
-      <link>/authors/m-vorderwinkler/</link>
-      <pubDate>Sun, 01 Apr 2012 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/m-vorderwinkler/</guid>
       <description></description>
     </item>
     
@@ -582,71 +184,7 @@
       <title>M. Affenzeller</title>
       <link>/authors/m.-affenzeller/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>/authors/m.-affenzeller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Bäck</title>
-      <link>/authors/m.-b%C3%A4ck/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/m.-b%C3%A4ck/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Frühwirth</title>
-      <link>/authors/m.-fr%C3%BChwirth/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/m.-fr%C3%BChwirth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Kofler</title>
-      <link>/authors/m.-kofler/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/m.-kofler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Kommenda</title>
-      <link>/authors/m.-kommenda/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/m.-kommenda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Scheucher</title>
-      <link>/authors/m.-scheucher/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/m.-scheucher/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Vorderwinkler</title>
-      <link>/authors/m.-vorderwinkler/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/m.-vorderwinkler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michael Affenzeller</title>
-      <link>/authors/michael-affenzeller/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/michael-affenzeller/</guid>
       <description></description>
     </item>
     
@@ -654,26 +192,159 @@
       <title>Michael Kommenda</title>
       <link>/authors/michael-kommenda/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>/authors/michael-kommenda/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Monika Kofler</title>
-      <link>/authors/monika-kofler/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/monika-kofler/</guid>
+      <title>S Raggl</title>
+      <link>/authors/s-raggl/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/s-raggl/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R. Braune</title>
-      <link>/authors/r.-braune/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/r.-braune/</guid>
+      <title>S. Wagner</title>
+      <link>/authors/s.-wagner/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/s.-wagner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Raggl</title>
+      <link>/authors/sebastian-raggl/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/sebastian-raggl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Wagner</title>
+      <link>/authors/stefan-wagner/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/stefan-wagner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T Niżyński</title>
+      <link>/authors/t-nizynski/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/t-nizynski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V Hauder</title>
+      <link>/authors/v-hauder/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/v-hauder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viktoria Hauder</title>
+      <link>/authors/viktoria-hauder/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/viktoria-hauder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W Bożejko</title>
+      <link>/authors/w-bozejko/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/authors/w-bozejko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Gnatowski</title>
+      <link>/authors/a.-gnatowski/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/authors/a.-gnatowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Roljic</title>
+      <link>/authors/b.-roljic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/authors/b.-roljic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Hölzl</title>
+      <link>/authors/e.-holzl/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/authors/e.-holzl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Tricoire</title>
+      <link>/authors/f-tricoire/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/authors/f-tricoire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Weichhart</title>
+      <link>/authors/g.-weichhart/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/authors/g.-weichhart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Moser</title>
+      <link>/authors/h.-moser/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/authors/h.-moser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Zörrer</title>
+      <link>/authors/h.-zorrer/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/authors/h.-zorrer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Karder</title>
+      <link>/authors/j.-karder/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/authors/j.-karder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Probst</title>
+      <link>/authors/k.-probst/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/authors/k.-probst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Frühwirth</title>
+      <link>/authors/m.-fruhwirth/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/authors/m.-fruhwirth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Kommenda</title>
+      <link>/authors/m.-kommenda/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/authors/m.-kommenda/</guid>
       <description></description>
     </item>
     
@@ -681,7 +352,6 @@
       <title>R. Cihal</title>
       <link>/authors/r.-cihal/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/authors/r.-cihal/</guid>
       <description></description>
     </item>
@@ -690,7 +360,6 @@
       <title>R. Klempous</title>
       <link>/authors/r.-klempous/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/authors/r.-klempous/</guid>
       <description></description>
     </item>
@@ -699,53 +368,7 @@
       <title>R. Steringer</title>
       <link>/authors/r.-steringer/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/authors/r.-steringer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S M Winkler</title>
-      <link>/authors/s-m-winkler/</link>
-      <pubDate>Fri, 01 Apr 2011 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/s-m-winkler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Raggl</title>
-      <link>/authors/s-raggl/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/s-raggl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Vonolfen</title>
-      <link>/authors/s-vonolfen/</link>
-      <pubDate>Sun, 01 Sep 2013 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/s-vonolfen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Wagner</title>
-      <link>/authors/s-wagner/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/s-wagner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Hutterer</title>
-      <link>/authors/s.-hutterer/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/s.-hutterer/</guid>
       <description></description>
     </item>
     
@@ -753,152 +376,7 @@
       <title>S. Raggl</title>
       <link>/authors/s.-raggl/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/authors/s.-raggl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Vonolfen</title>
-      <link>/authors/s.-vonolfen/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/s.-vonolfen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Wagner</title>
-      <link>/authors/s.-wagner/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/s.-wagner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Winkler</title>
-      <link>/authors/s.-winkler/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/s.-winkler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S.A. Wagner</title>
-      <link>/authors/s.a.-wagner/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/s.a.-wagner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S.M. M Winkler</title>
-      <link>/authors/s.m.-m-winkler/</link>
-      <pubDate>Fri, 01 Apr 2011 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/s.m.-m-winkler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S.M. Winkler</title>
-      <link>/authors/s.m.-winkler/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/s.m.-winkler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sebastian Raggl</title>
-      <link>/authors/sebastian-raggl/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/sebastian-raggl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stefan Vonolfen</title>
-      <link>/authors/stefan-vonolfen/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/stefan-vonolfen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stefan Wagner</title>
-      <link>/authors/stefan-wagner/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/stefan-wagner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stephan Hutterer</title>
-      <link>/authors/stephan-hutterer/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/stephan-hutterer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stephan M Winkler</title>
-      <link>/authors/stephan-m-winkler/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/stephan-m-winkler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stephan M. Winkler</title>
-      <link>/authors/stephan-m.-winkler/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/stephan-m.-winkler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stephan Winkler</title>
-      <link>/authors/stephan-winkler/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/stephan-winkler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T Niżyński</title>
-      <link>/authors/t-ni%C5%BCy%C5%84ski/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/t-ni%C5%BCy%C5%84ski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T. Felberbauer</title>
-      <link>/authors/t.-felberbauer/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/t.-felberbauer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teodor Niżyński</title>
-      <link>/authors/teodor-ni%C5%BCy%C5%84ski/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/teodor-ni%C5%BCy%C5%84ski/</guid>
       <description></description>
     </item>
     
@@ -906,7 +384,6 @@
       <title>U. Neissl</title>
       <link>/authors/u.-neissl/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/authors/u.-neissl/</guid>
       <description></description>
     </item>
@@ -915,44 +392,7 @@
       <title>V A Hauder</title>
       <link>/authors/v-a-hauder/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/authors/v-a-hauder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>V Bolshakov</title>
-      <link>/authors/v-bolshakov/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/v-bolshakov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>V Dorfer</title>
-      <link>/authors/v-dorfer/</link>
-      <pubDate>Fri, 01 Apr 2011 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/v-dorfer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>V Hauder</title>
-      <link>/authors/v-hauder/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/v-hauder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>V. Dorfer</title>
-      <link>/authors/v.-dorfer/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/v.-dorfer/</guid>
       <description></description>
     </item>
     
@@ -960,7 +400,6 @@
       <title>V. Grote</title>
       <link>/authors/v.-grote/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/authors/v.-grote/</guid>
       <description></description>
     </item>
@@ -969,7 +408,6 @@
       <title>V.A. A Hauder</title>
       <link>/authors/v.a.-a-hauder/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/authors/v.a.-a-hauder/</guid>
       <description></description>
     </item>
@@ -978,44 +416,7 @@
       <title>V.A. Hauder</title>
       <link>/authors/v.a.-hauder/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/authors/v.a.-hauder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Viktoria Hauder</title>
-      <link>/authors/viktoria-hauder/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/viktoria-hauder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>W Achleitner</title>
-      <link>/authors/w-achleitner/</link>
-      <pubDate>Sun, 01 Apr 2012 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/w-achleitner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>W Bożejko</title>
-      <link>/authors/w-bo%C5%BCejko/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/w-bo%C5%BCejko/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>W. Achleitner</title>
-      <link>/authors/w.-achleitner/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/w.-achleitner/</guid>
       <description></description>
     </item>
     
@@ -1023,8 +424,375 @@
       <title>W. Bozejko</title>
       <link>/authors/w.-bozejko/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/authors/w.-bozejko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Scheibenpflug</title>
+      <link>/authors/a.-scheibenpflug/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0100</pubDate>
+      <guid>/authors/a.-scheibenpflug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erik Pitzer</title>
+      <link>/authors/erik-pitzer/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>/authors/erik-pitzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Kronberger</title>
+      <link>/authors/g.-kronberger/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>/authors/g.-kronberger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Fechter</title>
+      <link>/authors/j.-fechter/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>/authors/j.-fechter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Judith Fechter</title>
+      <link>/authors/judith-fechter/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>/authors/judith-fechter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Kofler</title>
+      <link>/authors/m.-kofler/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>/authors/m.-kofler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monika Kofler</title>
+      <link>/authors/monika-kofler/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>/authors/monika-kofler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Vonolfen</title>
+      <link>/authors/stefan-vonolfen/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>/authors/stefan-vonolfen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephan Hutterer</title>
+      <link>/authors/stephan-hutterer/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>/authors/stephan-hutterer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephan M Winkler</title>
+      <link>/authors/stephan-m-winkler/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>/authors/stephan-m-winkler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephan M. Winkler</title>
+      <link>/authors/stephan-m.-winkler/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>/authors/stephan-m.-winkler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Auinger</title>
+      <link>/authors/f.-auinger/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>/authors/f.-auinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Kofler</title>
+      <link>/authors/m-kofler/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>/authors/m-kofler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Hutterer</title>
+      <link>/authors/s.-hutterer/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>/authors/s.-hutterer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Vonolfen</title>
+      <link>/authors/s.-vonolfen/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>/authors/s.-vonolfen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Winkler</title>
+      <link>/authors/s.-winkler/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>/authors/s.-winkler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Dorfer</title>
+      <link>/authors/v.-dorfer/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>/authors/v.-dorfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Dörner</title>
+      <link>/authors/k-dorner/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0200</pubDate>
+      <guid>/authors/k-dorner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Vonolfen</title>
+      <link>/authors/s-vonolfen/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0200</pubDate>
+      <guid>/authors/s-vonolfen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Lengauer</title>
+      <link>/authors/e.-lengauer/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <guid>/authors/e.-lengauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Lengauer</title>
+      <link>/authors/e-lengauer/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0200</pubDate>
+      <guid>/authors/e-lengauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Pitzer</title>
+      <link>/authors/e-pitzer/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0200</pubDate>
+      <guid>/authors/e-pitzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H Heiss</title>
+      <link>/authors/h-heiss/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0200</pubDate>
+      <guid>/authors/h-heiss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Vorderwinkler</title>
+      <link>/authors/m-vorderwinkler/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0200</pubDate>
+      <guid>/authors/m-vorderwinkler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W Achleitner</title>
+      <link>/authors/w-achleitner/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0200</pubDate>
+      <guid>/authors/w-achleitner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scheibenpflug</title>
+      <link>/authors/a-scheibenpflug/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>/authors/a-scheibenpflug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Mayr</title>
+      <link>/authors/a.-mayr/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>/authors/a.-mayr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Neumüller</title>
+      <link>/authors/c-neumuller/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>/authors/c-neumuller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G Merkuryeva</title>
+      <link>/authors/g-merkuryeva/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>/authors/g-merkuryeva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Altendorfer</title>
+      <link>/authors/k.-altendorfer/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>/authors/k.-altendorfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Bäck</title>
+      <link>/authors/m.-back/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>/authors/m.-back/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Felberbauer</title>
+      <link>/authors/t.-felberbauer/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>/authors/t.-felberbauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V Bolshakov</title>
+      <link>/authors/v-bolshakov/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>/authors/v-bolshakov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W. Achleitner</title>
+      <link>/authors/w.-achleitner/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>/authors/w.-achleitner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G K Kronberger</title>
+      <link>/authors/g-k-kronberger/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0200</pubDate>
+      <guid>/authors/g-k-kronberger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. K Kronberger</title>
+      <link>/authors/g.-k-kronberger/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0200</pubDate>
+      <guid>/authors/g.-k-kronberger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Kommenda</title>
+      <link>/authors/m-kommenda/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0200</pubDate>
+      <guid>/authors/m-kommenda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S M Winkler</title>
+      <link>/authors/s-m-winkler/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0200</pubDate>
+      <guid>/authors/s-m-winkler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.M. M Winkler</title>
+      <link>/authors/s.m.-m-winkler/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0200</pubDate>
+      <guid>/authors/s.m.-m-winkler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V Dorfer</title>
+      <link>/authors/v-dorfer/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0200</pubDate>
+      <guid>/authors/v-dorfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Heiss</title>
+      <link>/authors/h.-heiss/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      <guid>/authors/h.-heiss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Vorderwinkler</title>
+      <link>/authors/m.-vorderwinkler/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      <guid>/authors/m.-vorderwinkler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Reitinger</title>
+      <link>/authors/c.-reitinger/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      <guid>/authors/c.-reitinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Pöllabauer</title>
+      <link>/authors/l.-pollabauer/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      <guid>/authors/l.-pollabauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Scheucher</title>
+      <link>/authors/m.-scheucher/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      <guid>/authors/m.-scheucher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.M. Winkler</title>
+      <link>/authors/s.m.-winkler/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      <guid>/authors/s.m.-winkler/</guid>
       <description></description>
     </item>
     
@@ -1032,18 +800,148 @@
       <title>W. Puchner</title>
       <link>/authors/w.-puchner/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>/authors/w.-puchner/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Wojciech Bożejko</title>
-      <link>/authors/wojciech-bo%C5%BCejko/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/authors/wojciech-bo%C5%BCejko/</guid>
+      <title>S.A. Wagner</title>
+      <link>/authors/s.a.-wagner/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      <guid>/authors/s.a.-wagner/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Stephan Winkler</title>
+      <link>/authors/stephan-winkler/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      <guid>/authors/stephan-winkler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B Can</title>
+      <link>/authors/b-can/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0200</pubDate>
+      <guid>/authors/b-can/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Heavey</title>
+      <link>/authors/c-heavey/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0200</pubDate>
+      <guid>/authors/c-heavey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.J. Nebro</title>
+      <link>/authors/a.j.-nebro/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <guid>/authors/a.j.-nebro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Can</title>
+      <link>/authors/b.-can/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <guid>/authors/b.-can/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Dorronsoro</title>
+      <link>/authors/b.-dorronsoro/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <guid>/authors/b.-dorronsoro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Heavey</title>
+      <link>/authors/c.-heavey/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <guid>/authors/c.-heavey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Alba</title>
+      <link>/authors/e.-alba/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <guid>/authors/e.-alba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Luna</title>
+      <link>/authors/f.-luna/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <guid>/authors/f.-luna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G.K. Kronberger</title>
+      <link>/authors/g.k.-kronberger/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <guid>/authors/g.k.-kronberger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Durillo</title>
+      <link>/authors/j.-durillo/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <guid>/authors/j.-durillo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Braune</title>
+      <link>/authors/r.-braune/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      <guid>/authors/r.-braune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Nebro</title>
+      <link>/authors/a-nebro/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0200</pubDate>
+      <guid>/authors/a-nebro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Alba</title>
+      <link>/authors/e-alba/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0200</pubDate>
+      <guid>/authors/e-alba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Luna</title>
+      <link>/authors/f-luna/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0200</pubDate>
+      <guid>/authors/f-luna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+Andreas Beham is a researcher at the University of Applied Sciences Upper Austria (FH Oberösterreich). His research interests include evolutionary algorithms and metaheuristics in general
+applied to complex real-world problems in the domain of operations and supply chain management. He is a project leader at the Heuristic and Evolutionary Algorithms Laboratory (&lt;a href=&#34;https://heal.heuristiclab.com&#34;&gt;HEAL&lt;/a&gt;) research group.
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>

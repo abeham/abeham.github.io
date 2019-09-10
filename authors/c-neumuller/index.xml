@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Neumüller | @Don</title>
+    <link>/authors/c-neumuller/</link>
+      <atom:link href="/authors/c-neumuller/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Neumüller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>C Neumüller</title>
+      <link>/authors/c-neumuller/</link>
+    </image>
+    
+    <item>
+      <title>Large Scale Parameter Meta-Optimization of Metaheuristic Optimization Algorithms with HeuristicLab Hive</title>
+      <link>/publication/2012-nswba-large-scale-parameter/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>/publication/2012-nswba-large-scale-parameter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

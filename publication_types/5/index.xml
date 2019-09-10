@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>5 on @Don</title>
+    <title>5 | @Don</title>
     <link>/publication_types/5/</link>
-    <description>Recent content in 5 on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    <description>5</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>5</title>
+      <link>/publication_types/5/</link>
+    </image>
     
     <item>
       <title>Integrating Exploratory Landscape Analysis into Metaheuristic Algorithms</title>
       <link>/publication/2018-bepwa-integratingexploratorylandscape/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2018-bepwa-integratingexploratorylandscape/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Enterprise interoperability as framework for project knowledge management</title>
       <link>/publication/2017-wrbfs-enterpriseinteroperabilityas/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2017-wrbfs-enterpriseinteroperabilityas/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Complexity measures for multi-objective symbolic regression</title>
       <link>/publication/2015-kobak-complexitymeasuresmulti/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2015-kobak-complexitymeasuresmulti/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>Modeling a lot-aware slab stack shuffling problem</title>
       <link>/publication/2015-febwa-modelinglotaware/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2015-febwa-modelinglotaware/</guid>
       <description></description>
     </item>
@@ -51,7 +48,6 @@
       <title>Robust storage assignment in warehouses with correlated demand</title>
       <link>/publication/2015-kobwa-robuststorageassignment/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2015-kobwa-robuststorageassignment/</guid>
       <description></description>
     </item>
@@ -60,7 +56,6 @@
       <title>Automatic algorithm selection for the quadratic assignment problem using fitness landscape analysis</title>
       <link>/publication/2013-pibea-automaticalgorithmselection/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2013-pibea-automaticalgorithmselection/</guid>
       <description></description>
     </item>
@@ -69,7 +64,6 @@
       <title>Fitness landscape based parameter estimation for robust taboo search</title>
       <link>/publication/2013-bepia-fitnesslandscapebased/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2013-bepia-fitnesslandscapebased/</guid>
       <description></description>
     </item>
@@ -78,7 +72,6 @@
       <title>Structural synthesis of dispatching rules for dynamic dial-A-ride problems</title>
       <link>/publication/2013-vobka-structuralsynthesisdispatching/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2013-vobka-structuralsynthesisdispatching/</guid>
       <description></description>
     </item>
@@ -87,7 +80,6 @@
       <title>Yard storage assignment optimisation with neutral walks</title>
       <link>/publication/2013-kbpwa-yardstorageassignment/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2013-kbpwa-yardstorageassignment/</guid>
       <description></description>
     </item>
@@ -96,7 +88,6 @@
       <title>Combination and comparison of different genetic encodings for the vehicle routing problem</title>
       <link>/publication/2012-vbawm-combinationcomparisondifferent/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2012-vbawm-combinationcomparisondifferent/</guid>
       <description></description>
     </item>
@@ -105,7 +96,6 @@
       <title>Comprehensive and automatic fitness landscape analysis using HeuristicLab</title>
       <link>/publication/2012-piabw-comprehensiveautomaticfitness/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2012-piabw-comprehensiveautomaticfitness/</guid>
       <description></description>
     </item>
@@ -114,7 +104,6 @@
       <title>Knowledge discovery through symbolic regression with HeuristicLab</title>
       <link>/publication/2012-kwkbs-knowledgediscoverysymbolic/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2012-kwkbs-knowledgediscoverysymbolic/</guid>
       <description></description>
     </item>
@@ -123,7 +112,6 @@
       <title>Evolutionary selection in simulation-based optimization</title>
       <link>/publication/2009-bekaw-evolutionaryselectionsimulation/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-bekaw-evolutionaryselectionsimulation/</guid>
       <description></description>
     </item>
@@ -132,7 +120,6 @@
       <title>Genetic Algorithms and Genetic Programming: Modern Concepts and Practical Applications</title>
       <link>/publication/2009-afwwb-genetic-algorithms-genetica/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-afwwb-genetic-algorithms-genetica/</guid>
       <description></description>
     </item>
@@ -141,7 +128,6 @@
       <title>Model driven rapid prototyping of heuristic optimization algorithms</title>
       <link>/publication/2009-wkbwa-modeldrivenrapid/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-wkbwa-modeldrivenrapid/</guid>
       <description></description>
     </item>
@@ -150,7 +136,6 @@
       <title>On the influence of selection schemes on the genetic diversity in genetic algorithms</title>
       <link>/publication/2009-afwbw-influenceselectionschemes/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-afwbw-influenceselectionschemes/</guid>
       <description></description>
     </item>
@@ -159,7 +144,6 @@
       <title>On the success rate of crossover operators for genetic programming with offspring selection</title>
       <link>/publication/2009-kwabw-successratecrossover/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-kwabw-successratecrossover/</guid>
       <description></description>
     </item>
@@ -168,7 +152,6 @@
       <title>Priority rule generation with a genetic algorithm to minimize sequence dependent setup costs</title>
       <link>/publication/2009-kwbka-priorityrulegeneration/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-kwbka-priorityrulegeneration/</guid>
       <description></description>
     </item>
@@ -177,7 +160,6 @@
       <title>Benefits of plugin-based heuristic optimization software systems</title>
       <link>/publication/2007-wwpkb-benefitspluginbased/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2007-wwpkb-benefitspluginbased/</guid>
       <description></description>
     </item>

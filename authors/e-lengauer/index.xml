@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>E Lengauer on @Don</title>
+    <title>E Lengauer | @Don</title>
     <link>/authors/e-lengauer/</link>
-    <description>Recent content in E Lengauer on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="/authors/e-lengauer/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/e-lengauer/index.xml" rel="self" type="application/rss+xml" />
+    <description>E Lengauer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>E Lengauer</title>
+      <link>/authors/e-lengauer/</link>
+    </image>
     
     <item>
       <title>Inventory routing</title>
       <link>/publication/2012-lvabw-inventoryrouting/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0200</pubDate>
-      
       <guid>/publication/2012-lvabw-inventoryrouting/</guid>
       <description></description>
     </item>

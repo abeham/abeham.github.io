@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Peirleitner on @Don</title>
+    <title>A Peirleitner | @Don</title>
     <link>/authors/a-peirleitner/</link>
-    <description>Recent content in A Peirleitner on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/authors/a-peirleitner/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/a-peirleitner/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Peirleitner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A Peirleitner</title>
+      <link>/authors/a-peirleitner/</link>
+    </image>
     
     <item>
       <title>Regression Methods for Surrogate Modeling of a Real Production System Approximating the Influence on Inventory and Tardiness</title>
       <link>/publication/2018-kaabp-regression-methods-surrogate/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2018-kaabp-regression-methods-surrogate/</guid>
       <description></description>
     </item>

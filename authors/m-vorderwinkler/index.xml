@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M Vorderwinkler on @Don</title>
+    <title>M Vorderwinkler | @Don</title>
     <link>/authors/m-vorderwinkler/</link>
-    <description>Recent content in M Vorderwinkler on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="/authors/m-vorderwinkler/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/m-vorderwinkler/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Vorderwinkler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M Vorderwinkler</title>
+      <link>/authors/m-vorderwinkler/</link>
+    </image>
     
     <item>
       <title>Priority Rule-Based Production Optimization with Genetic Programming and a Solution Archive</title>
       <link>/publication/2012-pbahv-priority-rule-based/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0200</pubDate>
-      
       <guid>/publication/2012-pbahv-priority-rule-based/</guid>
       <description></description>
     </item>

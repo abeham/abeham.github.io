@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stephan Winkler on @Don</title>
+    <title>Stephan Winkler | @Don</title>
     <link>/authors/stephan-winkler/</link>
-    <description>Recent content in Stephan Winkler on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/authors/stephan-winkler/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/stephan-winkler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephan Winkler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Stephan Winkler</title>
+      <link>/authors/stephan-winkler/</link>
+    </image>
     
     <item>
       <title>Genetic Algorithms and Genetic Programming: Modern Concepts and Practical Applications</title>
       <link>/publication/2009-afwwb-genetic-algorithms-genetica/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-afwwb-genetic-algorithms-genetica/</guid>
       <description></description>
     </item>

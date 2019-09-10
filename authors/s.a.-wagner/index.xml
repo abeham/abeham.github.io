@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S.A. Wagner on @Don</title>
+    <title>S.A. Wagner | @Don</title>
     <link>/authors/s.a.-wagner/</link>
-    <description>Recent content in S.A. Wagner on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/authors/s.a.-wagner/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/s.a.-wagner/index.xml" rel="self" type="application/rss+xml" />
+    <description>S.A. Wagner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S.A. Wagner</title>
+      <link>/authors/s.a.-wagner/</link>
+    </image>
     
     <item>
       <title>Metaheuristic Optimization</title>
       <link>/publication/2009-awwbk-metaheuristic-optimization/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-awwbk-metaheuristic-optimization/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Metaheuristic Optimization</title>
       <link>/publication/2009-awwbk-metaheuristic-optimization/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-awwbk-metaheuristic-optimization/</guid>
       <description></description>
     </item>

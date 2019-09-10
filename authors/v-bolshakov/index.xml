@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>V Bolshakov on @Don</title>
+    <title>V Bolshakov | @Don</title>
     <link>/authors/v-bolshakov/</link>
-    <description>Recent content in V Bolshakov on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/authors/v-bolshakov/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/v-bolshakov/index.xml" rel="self" type="application/rss+xml" />
+    <description>V Bolshakov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>V Bolshakov</title>
+      <link>/authors/v-bolshakov/</link>
+    </image>
     
     <item>
       <title>Structural Analysis of Vehicle Routing Problems using General Fitness Landscape Analysis and Problem Specific Measures</title>
       <link>/publication/2012-pvbab-structural-analysis-vehicle/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2012-pvbab-structural-analysis-vehicle/</guid>
       <description></description>
     </item>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>6 on @Don</title>
+    <title>6 | @Don</title>
     <link>/publication_types/6/</link>
-    <description>Recent content in 6 on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>6</title>
+      <link>/publication_types/6/</link>
+    </image>
     
     <item>
       <title>Local Optima Networks in Solving Algorithm Selection Problem for TSP</title>
       <link>/publication/2019-bgnab-local-optima-networks/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2019-bgnab-local-optima-networks/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Optimization Networks: An Innovative Solution Approach for Practical Logistics Problems</title>
       <link>/publication/2017-khbwa-optimization-networks-innovative/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2017-khbwa-optimization-networks-innovative/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Metaheuristic Algorithms for the Quadratic Assignment Problem: Performance and Comparison</title>
       <link>/publication/2015-beafp-metaheuristic-algorithms-quadratic/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2015-beafp-metaheuristic-algorithms-quadratic/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>Optimization Strategies for Integrated Knapsack and Traveling Salesman Problems</title>
       <link>/publication/2015-bfkww-optimization-strategies-integrated/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2015-bfkww-optimization-strategies-integrated/</guid>
       <description></description>
     </item>
@@ -51,7 +48,6 @@
       <title>Simulation-Based Optimization with HeuristicLab: Practical Guidelines and Real-World Applications</title>
       <link>/publication/2015-abvpw-simulation-based-optimization/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2015-abvpw-simulation-based-optimization/</guid>
       <description></description>
     </item>
@@ -60,7 +56,6 @@
       <title>Affinity Based Slotting in Warehouses with Dynamic Order Patterns</title>
       <link>/publication/2014-kobwa-affinity-based-slotting/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2014-kobwa-affinity-based-slotting/</guid>
       <description></description>
     </item>
@@ -69,7 +64,6 @@
       <title>Architecture and Design of the HeuristicLab Optimization Environment</title>
       <link>/publication/2014-wkbks-architecture-design-heuristic-lab/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2014-wkbks-architecture-design-heuristic-lab/</guid>
       <description></description>
     </item>
@@ -78,7 +72,6 @@
       <title>Analysis of Allele Distribution Dynamics in Different Genetic Algorithms</title>
       <link>/publication/2011-afwwb-analysis-allele-distribution/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2011-afwwb-analysis-allele-distribution/</guid>
       <description></description>
     </item>
@@ -87,7 +80,6 @@
       <title>Distributed Online-optimization of High-dimensional Vehicle Routing Problems</title>
       <link>/publication/2010-vobea-distributed-onlineoptimization/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2010-vobea-distributed-onlineoptimization/</guid>
       <description></description>
     </item>
@@ -96,7 +88,6 @@
       <title>Metaheuristic Optimization</title>
       <link>/publication/2009-awwbk-metaheuristic-optimization/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-awwbk-metaheuristic-optimization/</guid>
       <description></description>
     </item>

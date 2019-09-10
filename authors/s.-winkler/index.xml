@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. Winkler on @Don</title>
+    <title>S. Winkler | @Don</title>
     <link>/authors/s.-winkler/</link>
-    <description>Recent content in S. Winkler on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/authors/s.-winkler/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/s.-winkler/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Winkler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S. Winkler</title>
+      <link>/authors/s.-winkler/</link>
+    </image>
     
     <item>
       <title>Architecture and Design of the HeuristicLab Optimization Environment</title>
       <link>/publication/2014-wkbks-architecture-design-heuristic-lab/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2014-wkbks-architecture-design-heuristic-lab/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Analysis of the dynamics of allele distribution for some selected GA-variants</title>
       <link>/publication/2010-afwwb-analysisdynamicsallele/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2010-afwwb-analysisdynamicsallele/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Metaheuristic Optimization</title>
       <link>/publication/2009-awwbk-metaheuristic-optimization/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-awwbk-metaheuristic-optimization/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>Metaheuristic Optimization</title>
       <link>/publication/2009-awwbk-metaheuristic-optimization/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-awwbk-metaheuristic-optimization/</guid>
       <description></description>
     </item>
@@ -51,7 +48,6 @@
       <title>Model driven rapid prototyping of heuristic optimization algorithms</title>
       <link>/publication/2009-wkbwa-modeldrivenrapid/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-wkbwa-modeldrivenrapid/</guid>
       <description></description>
     </item>
@@ -60,7 +56,6 @@
       <title>On the influence of selection schemes on the genetic diversity in genetic algorithms</title>
       <link>/publication/2009-afwbw-influenceselectionschemes/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-afwbw-influenceselectionschemes/</guid>
       <description></description>
     </item>
@@ -69,7 +64,6 @@
       <title>On the success rate of crossover operators for genetic programming with offspring selection</title>
       <link>/publication/2009-kwabw-successratecrossover/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-kwabw-successratecrossover/</guid>
       <description></description>
     </item>
@@ -78,7 +72,6 @@
       <title>Modeling of heuristic optimization algorithms</title>
       <link>/publication/2008-wkbwa-modelingheuristicoptimization/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2008-wkbwa-modelingheuristicoptimization/</guid>
       <description></description>
     </item>
@@ -87,7 +80,6 @@
       <title>Benefits of plugin-based heuristic optimization software systems</title>
       <link>/publication/2007-wwpkb-benefitspluginbased/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2007-wwpkb-benefitspluginbased/</guid>
       <description></description>
     </item>

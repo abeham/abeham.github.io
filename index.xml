@@ -1,146 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>@Don on @Don</title>
+    <title>@Don</title>
     <link>/</link>
-    <description>Recent content in @Don on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>@Don</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>@Don</title>
+      <link>/</link>
+    </image>
     
     <item>
-      <title>Local Optima Networks in Solving Algorithm Selection Problem for TSP</title>
-      <link>/publication/2019-bgnab-local-optima-networks/</link>
+      <title>Publications</title>
+      <link>/publication/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2019-bgnab-local-optima-networks/</guid>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Approximate Q-Learning for Stacking Problems with Continuous Production and Retrieval</title>
-      <link>/publication/2018-febwa-approximate-q-learning/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2018-febwa-approximate-q-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distributed Simulation Execution on a High-Performance Cluster using Heuristiclab Hive</title>
-      <link>/publication/2018-kabwa-distributed-simulation-execution/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/2018-kabwa-distributed-simulation-execution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Algorithm Selection on Generalized Quadratic Assignment Problem Landscapes</title>
-      <link>/publication/2018-bewaa-algorithm-selection-generalized/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2018-bewaa-algorithm-selection-generalized/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asynchronous Surrogate-assisted Optimization Networks</title>
-      <link>/publication/2018-kbwwa-asynchronous-surrogateassisted/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2018-kbwwa-asynchronous-surrogateassisted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discrete Real-world Problems in a Black-box Optimization Benchmark</title>
-      <link>/publication/2018-rbhwa-discrete-realworld/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2018-rbhwa-discrete-realworld/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integrating Exploratory Landscape Analysis into Metaheuristic Algorithms</title>
-      <link>/publication/2018-bepwa-integratingexploratorylandscape/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2018-bepwa-integratingexploratorylandscape/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Local Optima Networks in Solving Algorithm Selection Problem for TSP</title>
-      <link>/publication/2018-bgnab-local-optima-networks/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2018-bgnab-local-optima-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New insights on the block relocation problem</title>
-      <link>/publication/2018-trscb-newinsightsblock/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2018-trscb-newinsightsblock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimization networks for integrated machine learning</title>
-      <link>/publication/2018-kkbbk-optimizationnetworksintegrated/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2018-kkbbk-optimizationnetworksintegrated/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regression Methods for Surrogate Modeling of a Real Production System Approximating the Influence on Inventory and Tardiness</title>
-      <link>/publication/2018-kaabp-regression-methods-surrogate/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2018-kaabp-regression-methods-surrogate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resource constrained project scheduling: a real-world extension for steel industry</title>
-      <link>/publication/2018-habra-resourceconstrainedproject/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2018-habra-resourceconstrainedproject/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Digital Methods for improved qualification strategies (Optimal Workforce)</title>
-      <link>/project/optimalworkforce/</link>
+      <title>Projects</title>
+      <link>/project/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/project/optimalworkforce/</guid>
+      <guid>/project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Integrated Methods for Robust Production Planning and Control (SimGenOpt2)</title>
-      <link>/project/simgenopt2/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/project/simgenopt2/</guid>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
       <description></description>
     </item>
     
     <item>
-      <title>A General Solution Approach for the Location Routing Problem</title>
-      <link>/publication/2017-hkbwa-general-solution-approach/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/2017-hkbwa-general-solution-approach/</guid>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/talk/</guid>
       <description></description>
     </item>
     

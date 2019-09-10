@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Beham on @Don</title>
+    <title>A Beham | @Don</title>
     <link>/authors/a-beham/</link>
-    <description>Recent content in A Beham on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/authors/a-beham/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/a-beham/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Beham</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A Beham</title>
+      <link>/authors/a-beham/</link>
+    </image>
     
     <item>
       <title>Approximate Q-Learning for Stacking Problems with Continuous Production and Retrieval</title>
       <link>/publication/2018-febwa-approximate-q-learning/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2018-febwa-approximate-q-learning/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Distributed Simulation Execution on a High-Performance Cluster using Heuristiclab Hive</title>
       <link>/publication/2018-kabwa-distributed-simulation-execution/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-      
       <guid>/publication/2018-kabwa-distributed-simulation-execution/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Asynchronous Surrogate-assisted Optimization Networks</title>
       <link>/publication/2018-kbwwa-asynchronous-surrogateassisted/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2018-kbwwa-asynchronous-surrogateassisted/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>Discrete Real-world Problems in a Black-box Optimization Benchmark</title>
       <link>/publication/2018-rbhwa-discrete-realworld/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2018-rbhwa-discrete-realworld/</guid>
       <description></description>
     </item>
@@ -51,7 +48,6 @@
       <title>Local Optima Networks in Solving Algorithm Selection Problem for TSP</title>
       <link>/publication/2018-bgnab-local-optima-networks/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2018-bgnab-local-optima-networks/</guid>
       <description></description>
     </item>
@@ -60,7 +56,6 @@
       <title>Regression Methods for Surrogate Modeling of a Real Production System Approximating the Influence on Inventory and Tardiness</title>
       <link>/publication/2018-kaabp-regression-methods-surrogate/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2018-kaabp-regression-methods-surrogate/</guid>
       <description></description>
     </item>
@@ -69,7 +64,6 @@
       <title>Optimization Networks: An Innovative Solution Approach for Practical Logistics Problems</title>
       <link>/publication/2017-khbwa-optimization-networks-innovative/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2017-khbwa-optimization-networks-innovative/</guid>
       <description></description>
     </item>
@@ -78,7 +72,6 @@
       <title>Solving a Real World Steel Stacking Problem</title>
       <link>/publication/2017-rabta-solving-real-world/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2017-rabta-solving-real-world/</guid>
       <description></description>
     </item>
@@ -87,7 +80,6 @@
       <title>Affinity Based Slotting in Warehouses with Dynamic Order Patterns</title>
       <link>/publication/2014-kobwa-affinity-based-slotting/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2014-kobwa-affinity-based-slotting/</guid>
       <description></description>
     </item>
@@ -96,7 +88,6 @@
       <title>Simulation-Based Optimization of Transport Activities Within Cold Charge Steel Production</title>
       <link>/publication/2013-vbkad-simulation-based-optimization/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0200</pubDate>
-      
       <guid>/publication/2013-vbkad-simulation-based-optimization/</guid>
       <description></description>
     </item>
@@ -105,7 +96,6 @@
       <title>Inventory routing</title>
       <link>/publication/2012-lvabw-inventoryrouting/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0200</pubDate>
-      
       <guid>/publication/2012-lvabw-inventoryrouting/</guid>
       <description></description>
     </item>
@@ -114,7 +104,6 @@
       <title>Priority Rule-Based Production Optimization with Genetic Programming and a Solution Archive</title>
       <link>/publication/2012-pbahv-priority-rule-based/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0200</pubDate>
-      
       <guid>/publication/2012-pbahv-priority-rule-based/</guid>
       <description></description>
     </item>
@@ -123,7 +112,6 @@
       <title>Slotting Strategien zur Wegoptimierung in dynamischen Logistikzentren</title>
       <link>/publication/2012-kbwaa-slotting-strategienzur/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0200</pubDate>
-      
       <guid>/publication/2012-kbwaa-slotting-strategienzur/</guid>
       <description></description>
     </item>
@@ -132,7 +120,6 @@
       <title>Large Scale Parameter Meta-Optimization of Metaheuristic Optimization Algorithms with HeuristicLab Hive</title>
       <link>/publication/2012-nswba-large-scale-parameter/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2012-nswba-large-scale-parameter/</guid>
       <description></description>
     </item>
@@ -141,7 +128,6 @@
       <title>Structural Analysis of Vehicle Routing Problems using General Fitness Landscape Analysis and Problem Specific Measures</title>
       <link>/publication/2012-pvbab-structural-analysis-vehicle/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2012-pvbab-structural-analysis-vehicle/</guid>
       <description></description>
     </item>
@@ -150,7 +136,6 @@
       <title>The Multi-Period Storage Location Assignment Problem</title>
       <link>/publication/2012-kbwaa-multi-period-storage/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2012-kbwaa-multi-period-storage/</guid>
       <description></description>
     </item>
@@ -159,7 +144,6 @@
       <title>HeuristicLab 3.3: An Extendable and Flexible Software System for Heuristic Optimization</title>
       <link>/publication/2011-wbkkp-heuristic-lab-3-3-extendable/</link>
       <pubDate>Fri, 01 Apr 2011 00:00:00 +0200</pubDate>
-      
       <guid>/publication/2011-wbkkp-heuristic-lab-3-3-extendable/</guid>
       <description></description>
     </item>
@@ -168,7 +152,6 @@
       <title>HeuristicLab 3.3: A unified approach to metaheuristic optimization</title>
       <link>/publication/2010-wbkkp-heuristic-lab-3-3-unified/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0200</pubDate>
-      
       <guid>/publication/2010-wbkkp-heuristic-lab-3-3-unified/</guid>
       <description></description>
     </item>
@@ -177,7 +160,6 @@
       <title>Distributed Online-optimization of High-dimensional Vehicle Routing Problems</title>
       <link>/publication/2010-vobea-distributed-onlineoptimization/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2010-vobea-distributed-onlineoptimization/</guid>
       <description></description>
     </item>
@@ -186,7 +168,6 @@
       <title>About the Dynamics of Essential Genetic Information: An Empirical Analysis for Selected GA-Variants</title>
       <link>/publication/2009-afbww-dynamics-essential-genetic/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-afbww-dynamics-essential-genetic/</guid>
       <description></description>
     </item>
@@ -195,7 +176,6 @@
       <title>Simulation-based Evolutionary Optimisation of Buffer Allocation Problem</title>
       <link>/publication/2008-caheb-simulationbased-evolutionary/</link>
       <pubDate>Tue, 01 Apr 2008 00:00:00 +0200</pubDate>
-      
       <guid>/publication/2008-caheb-simulationbased-evolutionary/</guid>
       <description></description>
     </item>
@@ -204,7 +184,6 @@
       <title>Evolutionäres Design von Virtuellen Sensoren</title>
       <link>/publication/2007-wawkb-evolutionares-designvon/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2007-wawkb-evolutionares-designvon/</guid>
       <description></description>
     </item>
@@ -213,7 +192,6 @@
       <title>Un Estudio de la Aplicación del Algoritmo de Búsqueda Dispersa a Optimización Multiobjetivo</title>
       <link>/publication/2005-nelab-un-estudiode/</link>
       <pubDate>Thu, 01 Sep 2005 00:00:00 +0200</pubDate>
-      
       <guid>/publication/2005-nelab-un-estudiode/</guid>
       <description></description>
     </item>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Monika Kofler on @Don</title>
+    <title>Monika Kofler | @Don</title>
     <link>/authors/monika-kofler/</link>
-    <description>Recent content in Monika Kofler on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/authors/monika-kofler/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/monika-kofler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Monika Kofler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Monika Kofler</title>
+      <link>/authors/monika-kofler/</link>
+    </image>
     
     <item>
       <title>Simulation-Based Optimization with HeuristicLab: Practical Guidelines and Real-World Applications</title>
       <link>/publication/2015-abvpw-simulation-based-optimization/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2015-abvpw-simulation-based-optimization/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Coupling simulation with HeuristicLab to solve facility layout problems</title>
       <link>/publication/2009-bekwa-couplingsimulation-heuristic-lab/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2009-bekwa-couplingsimulation-heuristic-lab/</guid>
       <description></description>
     </item>

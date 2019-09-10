@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M. Scheucher on @Don</title>
+    <title>M. Scheucher | @Don</title>
     <link>/authors/m.-scheucher/</link>
-    <description>Recent content in M. Scheucher on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/authors/m.-scheucher/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/m.-scheucher/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Scheucher</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M. Scheucher</title>
+      <link>/authors/m.-scheucher/</link>
+    </image>
     
     <item>
       <title>A simulation-based approach to the vehicle routing problem</title>
       <link>/publication/2010-vwbka-simulationbasedapproach/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2010-vwbka-simulationbasedapproach/</guid>
       <description></description>
     </item>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. Vonolfen on @Don</title>
+    <title>S. Vonolfen | @Don</title>
     <link>/authors/s.-vonolfen/</link>
-    <description>Recent content in S. Vonolfen on @Don</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="/authors/s.-vonolfen/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/s.-vonolfen/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Vonolfen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S. Vonolfen</title>
+      <link>/authors/s.-vonolfen/</link>
+    </image>
     
     <item>
       <title>Architecture and Design of the HeuristicLab Optimization Environment</title>
       <link>/publication/2014-wkbks-architecture-design-heuristic-lab/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2014-wkbks-architecture-design-heuristic-lab/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Simulation-based evolution of resupply and routing policies in rich vendor-managed inventory scenarios</title>
       <link>/publication/2013-vablw-simulationbasedevolution/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2013-vablw-simulationbasedevolution/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Structural synthesis of dispatching rules for dynamic dial-A-ride problems</title>
       <link>/publication/2013-vobka-structuralsynthesisdispatching/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2013-vobka-structuralsynthesisdispatching/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>Combination and comparison of different genetic encodings for the vehicle routing problem</title>
       <link>/publication/2012-vbawm-combinationcomparisondifferent/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2012-vbawm-combinationcomparisondifferent/</guid>
       <description></description>
     </item>
@@ -51,7 +48,6 @@
       <title>Modelling and optimizing storage assignment in a steel slab yard</title>
       <link>/publication/2012-kbvwa-modellingoptimizingstorage/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2012-kbvwa-modellingoptimizingstorage/</guid>
       <description></description>
     </item>
@@ -60,7 +56,6 @@
       <title>Optimizing assembly line supply by integrating warehouse picking and forklift routing using simulation</title>
       <link>/publication/2012-vkbaa-optimizingassemblyline/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2012-vkbaa-optimizingassemblyline/</guid>
       <description></description>
     </item>
@@ -69,7 +64,6 @@
       <title>Simulation-based evolution of municipal glass-waste collection strategies utilizing electric trucks</title>
       <link>/publication/2011-vabwl-simulationbasedevolution/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2011-vabwl-simulationbasedevolution/</guid>
       <description></description>
     </item>
@@ -78,7 +72,6 @@
       <title>Solving large-scale vehicle routing problem instances using an island-model offspring selection genetic algorithm</title>
       <link>/publication/2011-voabw-solvinglargescale/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2011-voabw-solvinglargescale/</guid>
       <description></description>
     </item>
@@ -87,7 +80,6 @@
       <title>A simulation-based approach to the vehicle routing problem</title>
       <link>/publication/2010-vwbka-simulationbasedapproach/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2010-vwbka-simulationbasedapproach/</guid>
       <description></description>
     </item>
@@ -96,7 +88,6 @@
       <title>On the benefits of a domain-specific language for modeling metaheuristic optimization algorithms</title>
       <link>/publication/2010-vowba-benefitsdomainspecific/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>/publication/2010-vowba-benefitsdomainspecific/</guid>
       <description></description>
     </item>

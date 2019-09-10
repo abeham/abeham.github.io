@@ -17,7 +17,7 @@
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
       
       <guid>/project/optimalworkforce/</guid>
-      <description></description>
+      <description>Despite the increasing automation and therefore increased use of robots and machines, people are still a vital factor in manufacturing companies today. One strength of human resources is amongst others their high flexibility. Staff is able to learn new tasks or improve existing ones through constant qualification. However, the human factor is often ignored in analysing and optimizing production systems. At manufacturing locations like Upper Austria, the availability of specialists and efficient employees is considered as competitive advantage for firms. The project aims at investigating new approaches for optimized human resource development. Simulation, optimization and data analysis are combined to a new planning and analysis tool. Potentials of integrated personnel and production planning are highlighted through the application in two different manufacturing companies in Upper Austria.</description>
     </item>
     
     <item>
@@ -26,7 +26,10 @@
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
       
       <guid>/project/simgenopt2/</guid>
-      <description></description>
+      <description>&lt;p&gt;In SimGenOpt2, we pursue a new and complementary approach to production planning optimization and exploit potential savings. With the developed simulation generator SimGen at FH OÖ Steyr Campus, production processes which include planning and control of various companies can be modeled and analyzed holistically. The resulting digital model of the production company will be controlled, similarly to the real company, by the use of production planning methods such as Material Requirements Planning (MRP) and matched regarding the real and virtual key performance indicators.&lt;/p&gt;
+
+&lt;p&gt;With the developed optimization environment HeuristicLab at FH OÖ Hagenberg Campus, these planning parameters will be improved regarding cost efficiency and service level through an integrated simulation-based optimization approach. A tradeoff between cost efficient and stable respectively robust parameters should be achieved. Insights into the evaluation of stability and robustness during the optimization run are obtained and new methods for optimization are developed.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
